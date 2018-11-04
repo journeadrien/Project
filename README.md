@@ -3,7 +3,7 @@
 # Abstract
 At a time where social media become more and more important in politics. Where it allows a direct connection between parties and citizens, or where it can be used by citizen as a driving force (for instance during the Arab Spring). 
 However, in a media that no one control, limits may exist, thus we can ask our self: if it is always for the social good? 
-In order to give an answer to this question, we chose the 3 Million Russian Troll Tweets. We will try to appraise Russia’s interference in the 2016 election. This dataset contains the tweets of a Russian agency which ran a sophisticated and coordinated campaign to sow disinformation and discord into American politics. First, we plan to analyze the method underlying this tweets, then the The influence of the trolls on the election comparing to a voter survey.
+In order to give an answer to this question, we chose the 3 Million Russian Troll Tweets. We will try to appraise Russia’s interference in the 2016 election. This dataset contains the tweets of a Russian agency which ran a sophisticated and coordinated campaign to sow disinformation and discord into American politics. First, we plan to analyze the method underlying this tweets, then the the influence of the trolls on the election comparing to a voter survey.
 
 
 # Research questions
@@ -33,4 +33,5 @@ In order to give an answer to this question, we chose the 3 Million Russian Trol
 - Try to find some correlations between tweets and voter survey.
 
 # Questions for TAa
+Should we rather focus on one particular subject ?
 
