@@ -30,7 +30,7 @@ In order to give an answer to this question, we chose the 3 Million Russian Trol
 
 - Analyze the resentful character of tweets with respect to categories (right troll, left troll, etc ...).
 - Analyze the timing of the tweets, if links to a particular events in order to disimform.
-- Try to find some correlations between tweets and voter survey.
+- Try to find some correlations between tweets and a voter survey.
 
 # Questions for TAa
 Should we rather focus on one particular subject ?
