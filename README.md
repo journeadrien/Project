@@ -1,4 +1,4 @@
-# A third compain of desimformation ?
+# A third compain of desinformation ?
 
 # Abstract
 At a time where social media become more and more important in politics. Where it allows a direct connection between parties and citizens, or where it can be used by citizen as a driving force (for instance during the Arab Spring). 
