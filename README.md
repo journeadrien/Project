@@ -41,15 +41,15 @@ We selected seven major events which happened during the US elections. We hope t
 
 # Datasets
 - small Kaggle dataset
-- large Twitter dataset: a larger dataset with tweets in many languages over a wider time range
-- Voter survey from 2014 to 2016
+- large Twitter dataset: a larger dataset entirely dedicated to the US elections
+- Voter survey from 06/11/2015 to 30/10/2016
 
 # Cleaning
 We performed cleaning on the dataset to select the timescale that is relevant to us. We will first focus on tweets written in English.
 We selected the features which are relevant to us.
 
 # Next steps: Analysis
-We categorize the tweets depending on match for specific words related to major events.
+We categorize the tweets depending on matches for specific words related to major events.
 We want to study:
 - the distribution in time for all the quote tweet published
 - the 10 most active users that tweeted something about the event during the time period
