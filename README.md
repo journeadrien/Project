@@ -48,6 +48,14 @@ We selected seven major events which happened during the US elections. We hope t
 We performed cleaning on the dataset to select the timescale that is relevant to us. We will first focus on tweets written in English.
 We selected the features which are relevant to us.
 
+# Next steps: Analysis
+We categorize the tweets depending on match for specific words related to major events.
+We want to study:
+- the distribution in time for all the quote tweet published
+- the 10 most active users that tweeted something about the event during the time period
+- For the 10 most viral tweets, how the number of retweets evolved as a function of time
+- the number of tweets corresponding to the each account category
+
 # References
 https://www.rtl.fr/actu/international/presidentielle-americaine-2016-les-6-rebondissements-de-la-campagne-7785551696 
 https://en.wikipedia.org/wiki/Pizzagate_conspiracy_theory 
