@@ -1,5 +1,7 @@
 # Did Russia win the 2016 US elections?
 
+Find the Datastory [here](https://liolioclaudio.github.io/adamsfamily.github.io/).
+
 # Abstract
 Social media platforms have taken a great importance in our modern society. Social networks such as Facebook, Twitter or LinkedIn have become very powerful tools to spread a message. They allow a direct connection between parties or companies and citizens, and recent events such as the Arab Spring have shown they can be used as a driving force. 
 However, in such media which favor free expression, the control is weak or inexistant and thus fake information can spread quickly, against the social good.
@@ -39,22 +41,23 @@ We selected seven major events which happened during the US elections. We hope t
 - How did the trolls interfere in the public opinion?
 - What is the impact on voting intentions?
 
+# Data analysis and visualisation questions
+- How are the tweets distributed between the trolls and what is the impact of each category ?
+- Does the general sentiment of tweets of a user evolve through time?
+- Do trolls show high activity during specific dates corresponding to milestones of the campaign ? If so do they react with a particular sentiment depending on their category ?
+
 # Datasets
-- small Kaggle dataset
+- Small Kaggle dataset
 - large Twitter dataset: a larger dataset entirely dedicated to the US elections
-- Voter survey from 06/11/2015 to 30/10/2016
 
 # Cleaning
 We performed cleaning on the dataset to select the timescale that is relevant to us. We will first focus on tweets written in English.
 We selected the features which are relevant to us.
 
-# Next steps: Analysis
-We categorize the tweets depending on matches for specific words related to major events.
-We want to study:
-- the distribution in time for all the quote tweet published
-- the 10 most active users that tweeted something about the event during the time period
-- For the 10 most viral tweets, how the number of retweets evolved as a function of time
-- the number of tweets corresponding to the each account category
+# Contribution of each members
+- Lionel Desarzens: Datastory Writting/ Data exploration/ Scandale research
+- Aindrias Lefévère: Data Analysis/ Data visualisation/ Datastory Writting 
+- Adrien Journé : Data cleaning/ Data visualisation/ word embedding
 
 # References
 https://www.rtl.fr/actu/international/presidentielle-americaine-2016-les-6-rebondissements-de-la-campagne-7785551696 
